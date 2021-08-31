@@ -55,12 +55,14 @@ models that have been used in favor. Below are some examples. Please note this d
 limited to JVM frameworks and applications.
 
 ####[Vert.x](https://vertx.io/) 
+
 One example of an application that is reactive by nature and does not 
 use Actors. Vert.x has an extensive library and has low latency. There is wide spread support for Vert.x
 and has extensive documentation behind it. Instead of using the Actor model to be reactive, it uses an
 event bus.
 
 ####[Spring Reactive](https://spring.io/reactive) 
+
 Leverages the widely popular Spring Eco-System to build a reactive application. For already existing Spring 
 applications it's not too difficult to move to Spring Reactive with an expensive and timely migration.
 Additionally Spring has extensive community support and documentation to help solve a large number of 
@@ -68,6 +70,7 @@ problems with your application.
 
 
 ####[Ktor](https://ktor.io/)
+
 Leaverages the ideaology of Kotlin and it's syntax to create a highly reactive application. Learning Ktor is
 simple if you already know Kotlin. The best parts of Kotlin are integrated with Ktor. Ktor works with already
 existing Java Code so this can limit the scope of major changes to your application.
