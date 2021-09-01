@@ -6,7 +6,8 @@
 ## What is the Actor Model?
 
 The actor model is a design model where concurrent executions talk to each other through the use
-of units known as Actors through messages. By design Actors are Asynchronous. 
+of units known as Actors through messages. By design Actors are Asynchronous. For more information refer 
+[here](https://www.oreilly.com/library/view/applied-akka-patterns/9781491934876/ch01.html).
 
 
 The Actor Model is built into the programming language [Erlang](https://www.erlang.org/). 
